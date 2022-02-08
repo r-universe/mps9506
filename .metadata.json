@@ -1,0 +1,17 @@
+[
+  {
+    "package": "echor",
+    "oncran": true
+  },
+  {
+    "package": "tbrf",
+    "oncran": true
+  },
+  {
+    "package": "rATTAINS",
+    "oncran": true
+  },
+  {
+    "package": "dartx"
+  }
+]
