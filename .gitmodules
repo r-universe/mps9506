@@ -23,3 +23,8 @@
 	url = https://github.com/mps9506/dartx
 	shallow = true
 	registered = true
+[submodule "mpsTemplates"]
+	path = mpsTemplates
+	url = https://github.com/mps9506/mps-Templates
+	shallow = true
+	registered = true
