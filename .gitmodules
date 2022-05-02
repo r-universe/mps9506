@@ -25,6 +25,6 @@
 	registered = true
 [submodule "mpsTemplates"]
 	path = mpsTemplates
-	url = https://github.com/mps9506/mps-Templates
+	url = https://github.com/mps9506/mpsTemplates
 	shallow = true
 	registered = true
