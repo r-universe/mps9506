@@ -28,3 +28,8 @@
 	url = https://github.com/mps9506/mpsTemplates
 	shallow = true
 	registered = true
+[submodule "quartoYAAC"]
+	path = quartoYAAC
+	url = https://github.com/mps9506/quartoYAAC
+	shallow = true
+	registered = true
