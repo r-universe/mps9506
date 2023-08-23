@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mps9506/universe
-	shallow = true
 	branch = HEAD
-[submodule "echor"]
-	path = echor
-	url = https://github.com/mps9506/echor
-	shallow = true
-	registered = true
-[submodule "tbrf"]
-	path = tbrf
-	url = https://github.com/mps9506/tbrf
-	shallow = true
-	registered = true
-[submodule "rATTAINS"]
-	path = rATTAINS
-	url = https://github.com/mps9506/rATTAINS
-	shallow = true
-	registered = true
 [submodule "dartx"]
 	path = dartx
 	url = https://github.com/mps9506/dartx
-	shallow = true
-	registered = true
+[submodule "echor"]
+	path = echor
+	url = https://github.com/mps9506/echor
 [submodule "mpsTemplates"]
 	path = mpsTemplates
 	url = https://github.com/mps9506/mpsTemplates
-	shallow = true
-	registered = true
 [submodule "quartoYAAC"]
 	path = quartoYAAC
 	url = https://github.com/mps9506/quartoYAAC
-	shallow = true
-	registered = true
+[submodule "rATTAINS"]
+	path = rATTAINS
+	url = https://github.com/mps9506/rATTAINS
+[submodule "tbrf"]
+	path = tbrf
+	url = https://github.com/mps9506/tbrf
