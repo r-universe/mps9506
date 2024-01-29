@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mps9506/universe
+	url = https://github.com/mps9506/mps9506.r-universe.dev
 	branch = HEAD
 [submodule "dartx"]
 	path = dartx
