@@ -23,3 +23,6 @@
 [submodule "tbrf"]
 	path = tbrf
 	url = https://github.com/mps9506/tbrf
+[submodule "tceqcrp"]
+	path = tceqcrp
+	url = https://github.com/mps9506/tceqcrp
